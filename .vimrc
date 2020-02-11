@@ -19,6 +19,9 @@ Plug 'vim-airline/vim-airline-themes'
 
 Plug 'OmniSharp/omnisharp-vim'
 
+Plug 'scrooloose/nerdtree'
+Plug 'Xuyuanp/nerdtree-git-plugin'
+
 " Initialize plugin system
 call plug#end()
 

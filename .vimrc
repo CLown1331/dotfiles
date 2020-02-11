@@ -21,6 +21,7 @@ Plug 'OmniSharp/omnisharp-vim'
 
 Plug 'scrooloose/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'scrooloose/nerdcommenter'
 
 " Initialize plugin system
 call plug#end()

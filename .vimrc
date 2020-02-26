@@ -23,6 +23,8 @@ Plug 'scrooloose/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'scrooloose/nerdcommenter'
 
+Plug 'ollykel/v-vim'
+
 " Initialize plugin system
 call plug#end()
 
